@@ -1,3 +1,2 @@
 ClientApp=https://github.com/heroku/heroku-buildpack-nodejs.git
-https://github.com/heroku/heroku-buildpack-go
-https://github.com/jincod/dotnetcore-buildpack
+Back=https://github.com/jincod/dotnetcore-buildpack
